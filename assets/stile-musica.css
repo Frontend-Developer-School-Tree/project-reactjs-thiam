@@ -1,0 +1,40 @@
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+    font-family: 'Lato';
+  }
+html body {
+    margin: 0;
+  }
+  
+html body .Container {
+    display: flex;
+    flex-flow: column wrap;
+  }
+html body .Container header {
+background-color: #0d6106c4;
+border-top: 1rem solid #fff;
+}
+
+html body .Container header h1 {
+margin: 0;
+padding: 2rem;
+font-size: 2.5rem;
+color: #fff;
+}
+
+html body .Container header h1 h4 {
+margin: 0;
+font-size: 1.4rem;
+}
+
+html body .MusicaContainer footer{
+    background-color: #32429b;
+    height: auto;
+}
+
+html body .MusicaContainer #sopra{
+    height: 50%;
+    background-color: grey ;
+    color: black;
+}
