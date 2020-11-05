@@ -74,7 +74,6 @@ const header = (
 const main = (
     <main>
         <div id="sopra">
-
             <h1>cooococo</h1>
         </div>
     </main>
